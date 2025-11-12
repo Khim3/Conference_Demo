@@ -1,0 +1,11 @@
+servers:
+  intermediate:
+    ip: '125.234.238.107'
+    user: 'tttung_sv01'
+    password: null
+
+  main:
+    ip: '10.8.102.80'
+    user: 'tttung'
+    password: null
+
